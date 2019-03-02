@@ -1,38 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to Tony's Pages
+如果您喜欢我的视频，请您【点赞】 并【订阅】我的频道♥，
 
-You can use the [editor on GitHub](https://github.com/V2RAY-VPN/tony/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+https://www.youtube.com/c/TonyCN 您的订阅就是我的动力^_^
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欢迎大家评论，转发，记得打开【订阅】按钮旁边的推送〖小铃铛〗，
 
-### Markdown
+发布新视频时，它会把最新的内容第一时间推送给你。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+希望能和大家更多的交流:
 
-```markdown
-Syntax highlighted code block
+欢迎加入我的Telegram电报群：https://t.me/vpnv2ray  技术交流群
 
-# Header 1
-## Header 2
-### Header 3
+欢迎加入我的Telegram电报群：https://t.me/tony_cn  吹水交流群
 
-- Bulleted
-- List
+### Header
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+###  Themes
 
-[Link](url) and ![Image](src)
-```
+Your Pages site will use the layout and styles 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 通过微信赞赏支持Tony
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/V2RAY-VPN/tony/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+觉得Tony的内容、视频对你有所帮助，希望支持Tony的频道。
+你可以通过下面的二维码扫码“微信赞赏码” 支持我。
 
-### Support or Contact
+[Image](https://i1.wp.com/seattlelaohu.com/wp-content/uploads/2019/02/image.png?w=1080&ssl=1)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.0
+如果你决定赞赏，Tony感谢你的善意️支持。
+
 
