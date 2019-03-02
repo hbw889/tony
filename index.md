@@ -18,7 +18,7 @@
 
 ## 希望能和大家更多的交流:
 
-欢迎加入我的Telegram电报群：[https://t.me/vpnv2ray](https://t.me/vpn2ray)  技术交流群
+欢迎加入我的Telegram电报群：[https://t.me/vpnv2ray](https://t.me/vpnv2ray)  技术交流群
 
 欢迎加入我的Telegram电报群：[https://t.me/tony_cn](https://t.me/tony_cn)  吹水交流群
 
