@@ -25,9 +25,9 @@ Your Pages site will use the layout and styles
 
 觉得Tony的内容、视频对你有所帮助，希望支持Tony的频道。
 你可以通过下面的二维码扫码“微信赞赏码” 支持我。
-![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
+![Alt text](https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg)
 [Image](https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg)
-[https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg]
+
 如果你决定赞赏，Tony感谢你的善意️支持。
 
 
