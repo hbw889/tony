@@ -13,15 +13,16 @@ https://www.youtube.com/c/TonyCN 您的订阅就是我的动力^_^
 
 欢迎加入我的Telegram电报群：https://t.me/tony_cn  吹水交流群
 
-### Header
-
-
+### 通过微信赞赏支持Tony
+觉得Tony的内容、视频对你有所帮助，希望支持Tony的频道。
+你可以通过下面的二维码扫码“微信赞赏码” 支持我。
+如果你决定赞赏，Tony感谢你的善意️支持。
+<div align=center><img width="280" height="280" src="https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg"/></div>
 ###  Themes
 
 Your Pages site will use the layout and styles 
 
 ### 通过微信赞赏支持Tony
-
 
 觉得Tony的内容、视频对你有所帮助，希望支持Tony的频道。
 你可以通过下面的二维码扫码“微信赞赏码” 支持我。
@@ -30,4 +31,3 @@ Your Pages site will use the layout and styles
 
 如果你决定赞赏，Tony感谢你的善意️支持。
 
-<div align=center><img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/></div>
