@@ -8,7 +8,7 @@
 如果你决定赞赏，Tony感谢你的善意️支持。
 [微信赞赏码](https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg)
 <Div align=left><img width="480" height="480" src="https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg"/></div>
-## 如果您喜欢我的视频，请您【点赞】 并【订阅】我的频道♥，
+### 如果您喜欢我的视频，请您【点赞】 并【订阅】我的频道♥
 
 [https://www.youtube.com/c/TonyCN](https://www.youtube.com/c/TonyCN) 您的订阅就是我的动力^_^
 
