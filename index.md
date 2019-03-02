@@ -26,8 +26,8 @@ Your Pages site will use the layout and styles
 觉得Tony的内容、视频对你有所帮助，希望支持Tony的频道。
 你可以通过下面的二维码扫码“微信赞赏码” 支持我。
 
-[Image](https://i1.wp.com/seattlelaohu.com/wp-content/uploads/2019/02/image.png?w=1080&ssl=1)
-
+[Image](https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg)
+[https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg]
 如果你决定赞赏，Tony感谢你的善意️支持。
 
 
