@@ -16,11 +16,9 @@
 发布新视频时，它会把最新的内容第一时间推送给你。
 
 希望能和大家更多的交流:
-
 欢迎加入我的Telegram电报群：[https://t.me/vpnv2ray](https://t.me/vpn2ray)  技术交流群
 
 欢迎加入我的Telegram电报群：[https://t.me/tony_cn](https://t.me/tony_cn)  吹水交流群
-
 
 ### 通过微信赞赏支持Tony
 
@@ -32,6 +30,4 @@
 如果你决定赞赏，Tony感谢你的善意️支持。
 
 
-###  Themes
 
-Your Pages site will use the layout and styles.
