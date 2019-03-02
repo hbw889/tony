@@ -17,7 +17,7 @@ https://www.youtube.com/c/TonyCN 您的订阅就是我的动力^_^
 觉得Tony的内容、视频对你有所帮助，希望支持Tony的频道。
 你可以通过下面的二维码扫码“微信赞赏码” 支持我。
 如果你决定赞赏，Tony感谢你的善意️支持。
-<div align=center><img width="280" height="280" src="https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg"/></div>
+<div align=center><img width="480" height="480" src="https://raw.githubusercontent.com/V2RAY-VPN/tony/master/tony_weixin_zanshang.jpg"/></div>
 ###  Themes
 
 Your Pages site will use the layout and styles 
